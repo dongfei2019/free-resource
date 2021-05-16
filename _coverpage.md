@@ -5,4 +5,4 @@
 
 
 <!-- [Gitee](https://gitee.com/newbetome/spring-security-fromzero) -->
-[快速查看](README.md)
+[快速查看](mypages/project.md)

@@ -64,6 +64,7 @@
 >[WMS和MES的整合系统](https://github.com/lysilver/KopSoftWms)：基于.Net Core 2.2~3.1开发。<br/><br/>
 >[免费成绩管理系统](https://gitee.com/dlbz/shangma?_from=gitee_search)：ThinkPHP。<br/><br/>
 >[酒店管理系统](https://gitee.com/HyacinthTechnology_admin/Hotel)：ThinkPHP。<br/><br/>
+>[基于 Springboot 2.0 + LayUI 开发的物流管理系统](https://blog.csdn.net/ansellyy/article/details/81099922)<br/><br/>
 ## 博客论坛
 >[Mblog](https://github.com/langhsu/mblog)：开源 Java 博客系统（Spring-boot）。<br/><br/>
 >[halo](https://github.com/halo-dev/halo)：个人独立博客系统。<br/><br/>
